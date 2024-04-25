@@ -1,1 +1,4 @@
 # Explanatory-Data-Analysis--Retail-Store
+The project involves analyzing the data of an online retail company. The data contains information about customer purchases, product details, prices, quantity purchased and timestamps. 
+The task is to analyze the data set to gain insights into company's current performance and to provide data-driven recommendations that can help in growth of business and maintaining smooth operations. 
+The projects involves: Loading python libraries, loading data, handling missing data, handling negative data and looking for duplicate rows. The next step is to analyzing data on the following: Monthly sales trends, Country wise sales, Average Order Per customer, average number of unique items per order, top 20 products in terms of revenue and quantity sold, Customer preferences in terms of products purchased, cancelled/returned orders, and customers by number of purchased.
